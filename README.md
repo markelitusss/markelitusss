@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hola!
 
-<!--
-**markelitusss/markelitusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Markel Canales Ramos (aunque también me puedes llamar markelitus), estuidante de la FP de **DAW (*Desarrollo de Aplicaciones Web*)** en el IES Torrevigía.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Que me llevó hasta aquí?
+
+Mi interés por la tecnología viene desde hace muchos años, cuando apenas era un niño curioso e interesado en el mundo de la informática. Me interesan principalmente las siguientes ramas:
+
+- Programación
+- Bases de datos
+- Arquitectura de sistemas
+
+---
+
+## Tecnologías que estoy estudiando o que ya domino
+
+1. Con un nivel alto:
+   - HTML
+   - CSS
+   - Git
+2. Con un nivel medio
+   - Java
+   - MySQL
+3. A nivel básico
+   - Bash y Shell Scripting
+   - C++
+
+---
+
+### Programas que utilizo principalmente
+
+- Apache NetBeans
+- MySQL Workbench
+- Visual Studio Code
+
+---
+
+## Repositorios activos actualmente
+
+[PRO-UD8: colecciones en Java](https://github.com/markelitusss/PRO-UD8)
+[SI-SH: shell scripts](https://github.com/markelitusss/SI-SH)
+
+---
+
+## Contacto
+
+[Perfil de X:](x.com/markelitus) 
