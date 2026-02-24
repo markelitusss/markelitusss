@@ -46,4 +46,4 @@ Mi interés por la tecnología viene desde hace muchos años, cuando apenas era 
 
 ## Contacto
 
-[Perfil de X:](x.com/markelitus) 
+[Perfil de X:](https://x.com/markelitus) 
