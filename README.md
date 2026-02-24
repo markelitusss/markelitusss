@@ -46,4 +46,5 @@ Mi interés por la tecnología viene desde hace muchos años, cuando apenas era 
 
 ## Contacto
 
-[Perfil de X:](https://x.com/markelitus) 
+Email: markelcanalesramos@gmail.com
+[Perfil de X](https://x.com/markelitus) 
