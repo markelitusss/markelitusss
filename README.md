@@ -26,7 +26,8 @@ Mi interés por la tecnología viene desde hace muchos años, cuando apenas era 
 3. A nivel básico
    - Bash y Shell Scripting
    - C++
-
+   - PHP
+     
 ---
 
 ### Programas que utilizo principalmente
@@ -39,8 +40,8 @@ Mi interés por la tecnología viene desde hace muchos años, cuando apenas era 
 
 ## Repositorios activos actualmente
 
-- [PRO-UD8: colecciones en Java](https://github.com/markelitusss/PRO-UD8)
 - [SI-SH: shell scripts](https://github.com/markelitusss/SI-SH)
+- [LMGS-PHP: procesamiento de XML y JSON](https://github.com/markelitusss/LGMS-PHP)
 
 ---
 
