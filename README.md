@@ -41,7 +41,7 @@ Mi interés por la tecnología viene desde hace muchos años, cuando apenas era 
 ## Repositorios activos actualmente
 
 - [PRO-UD9: ficheros](https://github.com/markelitusss/PRO-UD9)
-- [LGMS-JS: manipulación de documentos web con JavaScript](https://github.com/markelitusss/LGMS-JS.git)
+- [BBDD-UD7: programacion en SQL](https://github.com/markelitusss/BBDD-UD7.git)
 
 ---
 
