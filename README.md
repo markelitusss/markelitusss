@@ -27,6 +27,7 @@ Mi interés por la tecnología viene desde hace muchos años, cuando apenas era 
    - Bash y Shell Scripting
    - C++
    - PHP
+   - JavaScript
      
 ---
 
@@ -40,7 +41,7 @@ Mi interés por la tecnología viene desde hace muchos años, cuando apenas era 
 
 ## Repositorios activos actualmente
 
-- [PRO-UD9: ficheros](https://github.com/markelitusss/PRO-UD9)
+- [PRO-UD10: acceso a BD](https://github.com/markelitusss/PRO-UD10)
 - [BBDD-UD7: programacion en SQL](https://github.com/markelitusss/BBDD-UD7.git)
 
 ---
