@@ -41,9 +41,8 @@ Mi interés por la tecnología viene desde hace muchos años, cuando apenas era 
 
 ## Repositorios activos actualmente
 
-- [PRO-UD10: acceso a BD](https://github.com/markelitusss/PRO-UD10)
+- [PRO-UD11: interfaces gráficas con Swing](https://github.com/markelitusss/PRO-UD11)
 - [BBDD-UD7: programacion en SQL](https://github.com/markelitusss/BBDD-UD7.git)
-- [LGMS-JS: bingo en JavaScript](https://github.com/markelitusss/LGMS-JS.git)
 
 ---
 
